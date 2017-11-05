@@ -1,5 +1,5 @@
-name: packer-abacao
-version: 1.1.0
+name: packer-spirotot
+version: 1.1.1
 summary: Packer - Build Automated Machine Images
 description: |
   Packer is easy to use and automates the creation of any type of machine
@@ -19,7 +19,7 @@ apps:
 parts:
   packer:
     source: https://github.com/hashicorp/packer.git
-    source-tag: master
+    source-tag: v1.1.1
     plugin: go
     go-importpath: github.com/hashicorp/packer
     go-packages: [github.com/hashicorp/packer]

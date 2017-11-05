@@ -1,3 +1,4 @@
 # packer-snap
 
-[![Snap Status](https://build.snapcraft.io/badge/abacao/packer-snap.svg)](https://build.snapcraft.io/user/abacao/packer-snap)
+[![Snap
+Status](https://build.snapcraft.io/badge/spirotot/packer-snap.svg)](https://build.snapcraft.io/user/spirotot/packer-snap)
